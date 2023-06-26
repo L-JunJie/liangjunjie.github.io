@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junjie Liang (梁俊杰)"
+title                    : "Junjie Liang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "梁俊杰"
-  avatar           : "profile.png"
+  name             : "liangjunjie"
+  avatar           : "me.png"
   bio              : "A handsome boy"
   location         : "Location"
   employer         :
