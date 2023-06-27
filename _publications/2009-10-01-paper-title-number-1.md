@@ -3,19 +3,15 @@ title: "A Collaborative Compression Scheme for Fast
 Activity Recognition on Mobile Devices Via
 Global Compression Ratio Decision"
 collection: publications
-permalink: /publication/2022-04-25-A Collaborative Compression Scheme for Fast
-Activity Recognition on Mobile Devices Via
-Global Compression Ratio Decision
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-4-25
+permalink: /publication/2023-4-25-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2023-4-25
 venue: 'April 25th'
-paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10111072'
-citation: 'junjie Liang, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10111072)
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: junjie Liang, You. (2022). "A Collaborative Compression Scheme for Fast
-Activity Recognition on Mobile Devices Via
-Global Compression Ratio Decision" <i>April 25th</i>. 1(1).
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
