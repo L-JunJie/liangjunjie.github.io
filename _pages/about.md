@@ -10,14 +10,10 @@ redirect_from:
 
 I come from Jintian Town, Guiping City, Guangxi, China, which is the starting point of the Taiping Heavenly Kingdom movement. I used to study embedded systems and obtained a bachelor's degree from Tianjin University of Technology in 2021. Currently, I am pursuing a master's degree at Nanjing Normal University, where I am studying human activity recognition, ubiquitous computing, and deep learning under the supervision of Associate Professor Lei Zhang. I have a strong interest in deep learning, particularly in the fields of object detection and image generation. Currently, I am interning and learning about YOLO object detection. I am also a cat lover and really enjoy spending time with kittens. Occasionally, I play games to relax and relieve stress.
 
-Getting started
+My paper
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. [A Collaborative Compression Scheme for Fast Activity Recognition on Mobile Devices Via Global Compression Ratio Decision](https://l-junjie.github.io/liangjunjie.github.io/files/A_Collaborative_Compression_Scheme_for_Fast_Activity_Recognition_on_Mobile_Devices_Via_Global_Compression_Ratio_Decision.pdf)
+
 
 Site-wide configuration
 ------
