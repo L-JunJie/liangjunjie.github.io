@@ -5,7 +5,7 @@ A Collaborative Compression Scheme for Fast
 Activity Recognition on Mobile Devices Via
 Global Compression Ratio Decision
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+<img align="right" width="250" src="https://l-junjie.github.io/liangjunjie.github.io/images/TMC.PNG" />
 
 - 南京阿凡达机器人科技有限公司 &emsp; 📌 2023年4月12号 —— Now
   
