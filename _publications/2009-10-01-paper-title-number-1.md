@@ -7,7 +7,6 @@ permalink: /publication/2023-4-25-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-4-25
 venue: 'April 25th'
-paperurl: [Download paper here](https://l-junjie.github.io/liangjunjie.github.io/files/A_Collaborative_Compression_Scheme_for_Fast_Activity_Recognition_on_Mobile_Devices_Via_Global_Compression_Ratio_Decision.pdf)
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 This paper is about the number 2. The number 3 is left for future work.
