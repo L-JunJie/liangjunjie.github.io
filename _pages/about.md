@@ -15,7 +15,7 @@ My paper
 <tr>
 <td>
   
-[A Collaborative Compression Scheme for Fast
+- [A Collaborative Compression Scheme for Fast
 Activity Recognition on Mobile Devices Via
 Global Compression Ratio Decision](https://l-junjie.github.io/liangjunjie.github.io/files/A_Collaborative_Compression_Scheme_for_Fast_Activity_Recognition_on_Mobile_Devices_Via_Global_Compression_Ratio_Decision.pdf)
 
