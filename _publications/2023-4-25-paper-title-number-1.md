@@ -2,8 +2,11 @@
 title: "A Collaborative Compression Scheme for Fast
 Activity Recognition on Mobile Devices Via
 Global Compression Ratio Decision"
-Publishing journals: "IEEE Transactions on Mobile Computing (CCF Rank A, IF=6.075)"
-Author: "Junjie Liang, Lei Zhang, Chaolei Han, Can Bu, Hao Wu, Aiguo Song"
+collection: publications
+permalink: /publication/2023-4-25-paper-title-number-2
+excerpt: 'IEEE Transactions on Mobile Computing (CCF Rank A, IF=6.075)'
+date: 2023-4-25
+venue: 'April 25th'
 ---
 A Collaborative Compression Scheme for Fast
 Activity Recognition on Mobile Devices Via
