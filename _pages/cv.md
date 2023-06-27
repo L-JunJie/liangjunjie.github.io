@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Tianjin University of Technology, 2017-2021
+* M.S. in Nanjing Normal University, 2021-2024
+* Ph.D (None)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023-03-14~2023-04-06
+  * 在深圳实习期间积极配合领导，主要工作内容是PID控制以及遗传算法。
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023-04-12~至今
+  * 南京阿凡达机器人科技有限公司
+  * 实习岗位：AI视觉算法
+  * 实习内容：AI视觉图像处理和深度学习目标检测
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 熟练使用Python、 PyTorch、 NumPy、 Pandas，OpenCV等工具
+* 掌握chatgpt和Midjourney的基本使用
+* 熟练掌握Linux操作系统的基本指令
+* 熟练使用labelimg进行数据的标注
 
 Publications
 ======
@@ -42,18 +38,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
